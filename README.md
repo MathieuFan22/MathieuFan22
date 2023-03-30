@@ -2,7 +2,7 @@
     <img src="https://files.fm/thumb_show.php?i=qrqxrfq2a" style="width: 100%">
 </div>  
 <h2 align="center">I'm ANDRIANANDRAINA Anja Fanirintsoa Mathieu</h2>
-<h3 align="center">A passionate developer from Antananarivo, Madagascar</h3>
+<h3 align="center">A passionate developer from Antananarivo, Madagascar </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

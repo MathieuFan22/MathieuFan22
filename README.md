@@ -18,6 +18,11 @@
     <img src="https://skillicons.dev/icons?i=html,js,css,ts,dart&theme=dark" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,vue,express,nodejs&theme=dark" />
+  </a>
+</p>
 
 <p align="left"> 
    

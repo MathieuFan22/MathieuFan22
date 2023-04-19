@@ -7,8 +7,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/fanirintsoa22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fanirintsoa22" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/fanirintsoa mathieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fanirintsoa mathieu" height="30" width="40" /></a>
-    <a href="https://fb.com/fanirintsoa mathieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fanirintsoa mathieu" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/mathieu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fanirintsoa mathieu" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/anjfanmat.fanmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fanirintsoa mathieu" height="30" width="40" /></a>
     <a href="https://instagram.com/fanirintsoa_mathieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fanirintsoa_mathieu" height="30" width="40" /></a>
 </p>
 
